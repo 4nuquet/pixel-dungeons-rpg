@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PixelDungeons/PixelDungeons.csproj" />
+  <Project Path="PixelEngine/PixelEngine.csproj" />
+</Solution>
