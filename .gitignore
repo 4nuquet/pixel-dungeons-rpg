@@ -1,0 +1,44 @@
+# Build outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.rsuser
+*.db
+*.db-shm
+*.db-wal
+
+# .NET / NuGet
+packages/
+*.nupkg
+project.assets.json
+*.nuget.props
+*.nuget.targets
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+*.AssemblyInfo.cs
+
+# MonoGame / generated content
+Content/bin/
+Content/obj/
+**/bin/
+**/obj/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp
+*.cache
+TestResults/
